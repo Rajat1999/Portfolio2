@@ -1,0 +1,150 @@
+.vertical-center {
+    background: none;
+    height: -webkit-fill-available;
+    color: #ffffff;
+    display: flex;
+}
+
+.jumbotron {
+    text-align-last: center;
+    margin :0px;
+    width: -webkit-fill-available;
+}
+
+.margin-auto {
+    margin : auto;
+}
+
+.fontsize-xxxlarge {
+    font-size: -webkit-xxx-large;
+}
+
+.display-4 {
+    font-size: 5.5rem;
+    font-weight: 300;
+    line-height: 1.6;
+}
+
+.subHeading {
+    font-size: 3.5rem;
+    font-weight: 300;
+    line-height: 1.6;
+}
+
+.myjumbotron {
+    padding: 1rem 1rem;
+    text-align-last: center;
+    background-color: #181819;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #ffffff;
+    display: inline-flex;
+    width: -webkit-fill-available;
+}
+
+p {
+    color: #03225C;
+    font-size: 20px;
+}
+
+.about-me {
+    margin: 16px auto auto 0px;
+    padding: 0px;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+.my-image {
+    margin: 20px 10px 0 auto;
+    padding : 0px;
+}
+
+.aboutmebody {
+    height: -webkit-fill-available;
+    background-color: #e9ecef;
+}
+
+.indexbody {
+    height: -webkit-fill-available;
+    background-color: lightgrey;
+    background: url(./background.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.row {
+    margin : 0px;
+}
+
+.list {
+    margin: auto;
+}
+
+.center {
+     place-content: center;
+}
+
+.margin-0px {
+    margin: 0px;
+}
+
+.rightalign {
+    margin-left: auto;
+}
+
+.list-group-item-action {
+ width: 75%;
+}
+
+.mb-1 {
+    font-size : 16px;
+}
+
+legend {
+    background: #00000060;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #f8f9fa;
+}
+
+.fa-linkedin-square {
+    color: #0177b5;
+}
+
+.fa-twitter-square {
+    color: #3cf;
+}
+
+.fa-facebook-square {
+    color: #08309e;
+}
+
+.fa-github-square {
+    color: black;
+}
+
+.btn-primary {
+    margin:10px;
+}
+
+.display-flex {
+    display:flex;
+}
+
+.width-fill {
+    width: -webkit-fill-available;
+}
+/*
+li {
+    margin: auto;
+    padding:20px;
+        width: -webkit-fill-available;
+}
+*/
